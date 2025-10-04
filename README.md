@@ -99,7 +99,7 @@ OrderFlow-Project/
 - Geração de tokens JWT
 - Integração com API Gateway
 
-[📖 Documentação Completa](./orderflow-lambda-auth/README.md)
+[📖 Documentação Completa](https://github.com/orderflow-tech/orderflow-lambda-auth/README.md)
 
 ### 2. orderflow-infra-kubernetes
 
@@ -119,7 +119,7 @@ OrderFlow-Project/
 - Cluster Autoscaler
 - Metrics Server
 
-[📖 Documentação Completa](./orderflow-infra-kubernetes/README.md)
+[📖 Documentação Completa](https://github.com/orderflow-tech/orderflow-infra-kubernetes/README.md)
 
 ### 3. orderflow-infra-database
 
@@ -139,7 +139,8 @@ OrderFlow-Project/
 - Performance Insights
 - Read Replica (opcional)
 
-[📖 Documentação Completa](./orderflow-infra-database/README.md)
+
+[📖 Documentação Completa](https://github.com/orderflow-tech/orderflow-infra-database/README.md)
 
 ### 4. orderflow-application
 
@@ -158,7 +159,7 @@ OrderFlow-Project/
 - Integração com gateway de pagamento
 - Webhook de pagamento
 
-[📖 Documentação Completa](./orderflow-application/README.md)
+[📖 Documentação Completa](https://github.com/orderflow-tech/orderflow-application/README.md)
 
 ## Pré-requisitos
 
@@ -439,10 +440,10 @@ kubectl get secrets -n orderflow
 
 ## Documentação Adicional
 
-- [Documentação Lambda Auth](./orderflow-lambda-auth/README.md)
-- [Documentação Infraestrutura Kubernetes](./orderflow-infra-kubernetes/README.md)
-- [Documentação Infraestrutura Database](./orderflow-infra-database/README.md)
-- [Documentação Aplicação](./orderflow-application/README.md)
+- [Documentação Lambda Auth](https://github.com/orderflow-tech/orderflow-lambda-auth/README.md)
+- [Documentação Infraestrutura Kubernetes](https://github.com/orderflow-tech/orderflow-infra-kubernetes/README.md)
+- [Documentação Infraestrutura Database](https://github.com/orderflow-tech/orderflow-infra-database/README.md)
+- [Documentação Aplicação](https://github.com/orderflow-tech/orderflow-application/README.md)
 
 ## Contribuindo
 
